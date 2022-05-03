@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HloovWeatherForeCast/static/css/main.3708c4fe.css",
+    "main.js": "/HloovWeatherForeCast/static/js/main.17ce7f4b.js",
+    "static/js/787.f8b49ec9.chunk.js": "/HloovWeatherForeCast/static/js/787.f8b49ec9.chunk.js",
+    "index.html": "/HloovWeatherForeCast/index.html",
+    "main.3708c4fe.css.map": "/HloovWeatherForeCast/static/css/main.3708c4fe.css.map",
+    "main.17ce7f4b.js.map": "/HloovWeatherForeCast/static/js/main.17ce7f4b.js.map",
+    "787.f8b49ec9.chunk.js.map": "/HloovWeatherForeCast/static/js/787.f8b49ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3708c4fe.css",
+    "static/js/main.17ce7f4b.js"
+  ]
+}
